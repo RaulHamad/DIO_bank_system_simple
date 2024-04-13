@@ -58,7 +58,7 @@ while True:
             print(f'Saldo: R${saldo:.2f}')
             print(" ")
         else:
-            print("Não foram realizadas movimentações")
+            print("Não foram realizadas movimentações.")
             print(" ")
             
     elif opcao == 'q':
