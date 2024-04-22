@@ -1,0 +1,1 @@
+menu = "-----Sistema bancario-----\n[d] Depositar\n[s] Sacar\n[e] Extrato\n[q] Sair\nSelecione uma opção: "
